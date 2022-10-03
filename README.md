@@ -1,1 +1,1 @@
-# komnata_dlia_katania_na_stuliax
+Это - тестовый репозиторий
